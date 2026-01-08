@@ -45,6 +45,8 @@ Supported platforms:
 Vaulture is currently in early access.
 - No auto-updates yet
 - No code signing or notarization yet
+- Offline mode is not supported yet
+- Decrypted data is held in memory only while the vault is unlocked
 - Expect rough edges and UX improvements
 
 ---
