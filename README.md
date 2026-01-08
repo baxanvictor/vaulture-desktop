@@ -7,14 +7,36 @@ Vaulture never has access to your encrypted data.
 
 ---
 
+## System requirements
+
+### macOS
+- macOS 11 (Big Sur) or newer
+- Apple Silicon or Intel Mac
+
+### Windows
+- Windows 10 (64-bit) or newer
+
+### Linux (x86_64 / amd64)
+
+Vaulture targets modern Linux desktop distributions.
+
+- Debian 12 (bookworm) or newer
+- Ubuntu 22.04+
+
+If you encounter issues on older distributions, please let us know.
+
+---
+
 ## Downloads
 
 Download the latest version from the [**Releases**](https://github.com/baxanvictor/vaulture-desktop/releases) page.
 
-Supported platform:
+Supported platforms:
 - macOS (DMG)
 - Windows (MSI)
-- Linux (DEB)
+- Linux (DEB, x86_64 / amd64)
+
+> **Linux note:** The Linux build targets modern Debian-based systems (Debian 12+, Ubuntu 22.04+) on x86_64.
 
 ---
 
