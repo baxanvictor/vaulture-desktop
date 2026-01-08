@@ -9,7 +9,7 @@ Vaulture never has access to your encrypted data.
 
 ## Downloads
 
-Download the latest version from the **Releases** page.
+Download the latest version from the [**Releases**](https://github.com/baxanvictor/vaulture-desktop/releases) page.
 
 Supported platform:
 - macOS (DMG)
@@ -31,7 +31,7 @@ Vaulture is currently in early access.
 
 Feedback is very welcome.
 
-Please report bugs or suggestions via **GitHub Issues** in this repository or via the in-app Support & Feedback section.
+Please report bugs or suggestions via [**GitHub Issues**](https://github.com/baxanvictor/vaulture-desktop/issues) in this repository or via the in-app Support & Feedback section.
 
 ---
 
