@@ -10,7 +10,7 @@ Vaulture never has access to your encrypted data.
 ## System requirements
 
 ### macOS
-- macOS 11 (Big Sur) or newer
+- macOS 12 or newer
 - Apple Silicon or Intel Mac
 
 ### Windows
@@ -18,12 +18,7 @@ Vaulture never has access to your encrypted data.
 
 ### Linux (x86_64 / amd64)
 
-Vaulture targets modern Linux desktop distributions.
-
-- Debian 12 (bookworm) or newer
-- Ubuntu 22.04+
-
-If you encounter issues on older distributions, please let us know.
+- Ubuntu 20.04 or compatible distributions (64-bit)
 
 ---
 
