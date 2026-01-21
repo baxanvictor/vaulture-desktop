@@ -1,5 +1,9 @@
 # Vaulture Desktop
 
+> Status: Paused  
+Vaulture is currently paused and the backend is offline.  
+The app is not intended for active use.
+
 Vaulture is a zero-knowledge desktop vault for storing sensitive information securely.
 
 All encryption happens locally on your device.  
@@ -58,3 +62,4 @@ Please report bugs or suggestions via [**GitHub Issues**](https://github.com/bax
 
 The source code for Vaulture is not public at this time.  
 The software is distributed as binaries only. All rights reserved.
+
